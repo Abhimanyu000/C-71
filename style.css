@@ -1,0 +1,54 @@
+#contact iframe {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel1locationinwebsiteblog {
+    border: 1px solid;
+    border-color: darkgrey;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel1locationinwebsiteblog img {
+    width: 100%;
+}
+
+.moviereviewforendgameinwebsiteblog i {
+    float: right;
+}
+
+.endgamereview span {
+    color: yellow;
+}
+.environment2 {
+    margin-top: 18px;
+}
+.booksinlistforblogpage {
+    cursor: pointer;
+}
+.booksinlistforblogpage hr {
+    margin-bottom: 10px;
+}
+.modal-content {
+    margin-top: 100px;
+    
+}
+.moviereviewforendgameinwebsiteblog {
+    font-size: 24px;
+    padding :6px 18px;
+    border-radius: 10px;
+}
